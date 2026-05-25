@@ -3,12 +3,11 @@
 </a>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
-  <h1>Hi there, I'm Kiran Shankar Kuchekar!</h1>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Hi%20there%2C%20I'm%20Kiran%20Shankar%20Kuchekar!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Healthcare%20Data%20Analyst%20%7C%205%2B%20Years%20Experience&descAlignY=55&descAlign=50" alt="header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Healthcare+Data+Analyst+%7C+5%2B+Years+Experience;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Turning+Health+Data+into+Actionable+Insights;Content+Creator+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Healthcare+Data+Analyst+%7C+5%2B+Years+Experience;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI;Turning+Health+Data+into+Actionable+Insights;Lifelong+Learner+%7C+Data+Storyteller" alt="Typing SVG" />
 </div>
 
 ---
@@ -19,7 +18,6 @@ I'm a **Healthcare Data Analyst** with **5+ years of experience** transforming c
 
 - 🏥 I work with healthcare data every day, turning raw numbers into life-improving decisions
 - 📊 Data storytelling is my superpower — I believe every dataset has a story waiting to be told
-- 🎥 I create educational content on YouTube, Medium, and Instagram to help others break into data analytics
 - ☁️ I'm currently leveling up my cloud skills on **Google Cloud Platform (GCP)**
 - 🧩 Fun fact: I can debug SQL queries faster than I can make a cup of coffee ☕
 
@@ -96,6 +94,10 @@ I'm a **Healthcare Data Analyst** with **5+ years of experience** transforming c
 </div>
 
 ---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer" alt="footer"/>
+</div>
 
 <div align="center">
 
